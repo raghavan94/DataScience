@@ -3,7 +3,7 @@ Named Entity Recognition (NER) of Location entities.
 
 To run, clone the project and run
 
-python featureGeneration.py
+python feature_generation.py
 
 Team Members:
 Madan Raj Hari – mhari2@wisc.edu;
