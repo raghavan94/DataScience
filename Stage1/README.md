@@ -6,6 +6,6 @@ To run, clone the project and run
 python feature_generation.py
 
 Team Members:
-Madan Raj Hari – mhari2@wisc.edu;
+Madan Raj Hari – mhari2@wisc.edu
 Raghavan Vellore Muneeswaran – velloremunee@wisc.edu
 Shadana Subramanian – ssubramani23@wisc.edu
